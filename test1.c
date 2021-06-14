@@ -4,7 +4,7 @@ int function()
 {
     return 0;
 }
-int main()
+int main1()
 {
     printf("Welcome\n");
     return 0;
