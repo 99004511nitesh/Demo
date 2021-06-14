@@ -2,13 +2,13 @@
 /*
 	This is a test.c file with main and one function
 */
-int function()
+int test_function()
 {
     printf("Welcome\n");
     return 0;
 }
-int main()
+int test_main()
 {
-    function();
+    test_function();
     return 0;
 }
