@@ -6,6 +6,6 @@ int function()
 }
 int main()
 {
-    printf("Welcome\n");
+    printf("Welcome to new feature branch\n");
     return 0;
 }
