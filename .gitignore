@@ -1,5 +1,0 @@
-*.o
-*.out
-!all1.out
-test
-!test/1.html
